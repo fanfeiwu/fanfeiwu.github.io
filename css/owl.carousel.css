@@ -23,7 +23,8 @@
 .owl-theme .owl-buttons{
 	position: absolute;
 	bottom: -14%;
-	right: 0em;
+	/*right: 0em; */
+  right: 50%;
 }
 
 /* Styling Next and Prev buttons */

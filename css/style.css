@@ -134,11 +134,20 @@ span.menu {
 	font-weight:900;
 	text-transform:uppercase;
 	line-height: 0.8em;
+      
+    
 }
+.item-right img{
+	position:relative;
+left:8%
+}
+    
+
 .item-right span{
 	color:#fff;
 	font-size:1.8em;
 	font-weight:100;
+  
 }
 .item-right p{
 	color:#fff;
@@ -146,6 +155,8 @@ span.menu {
 	font-weight:100;
 	line-height:1.8em;
 	margin:2em 0;
+	
+   
 }
 .item-right a{
 	color:#fff;
@@ -160,10 +171,12 @@ span.menu {
 	-webkit-border-radius: 6px;
 	-o-border-radius: 6px;
 	-moz-border-radius: 6px;
-	-ms-border-radius: 6px;
+	-ms-border-radius: 6px;  
+ 
 }
 .item-right a:hover{
-	background:#44BCEF;
+	background:#44BCEF;   
+  
 }
 .item-right a i{
 	background: url(../images/img-sprite.png)no-repeat -8px -9px ;
@@ -171,7 +184,8 @@ span.menu {
 	height: 40px;
 	display: inline-block;
 	vertical-align:middle;
-	margin: 0 8px 0 0px;
+	margin: 0 8px 0 0px;  
+ 
 }
 .banner-matter{
 	padding:2em 1em;
@@ -742,7 +756,8 @@ p.footer-class a:hover{
 .item-right p {
 	margin: 1em 0;
 	height: 106px;
-	overflow: hidden;
+	overflow: hidden;  
+ 
 }
 .banner {
 	min-height: 506px;
@@ -780,19 +795,27 @@ ul.drop li a {
 	float: left;
 	width: 50%;
 }
+
 .item-right h1 {
 	font-size: 2.3em;
 }
 .item-right span {
 	font-size: 1.4em;
 }
+
+.item-right img{
+	position:relative;
+left:8%
+}
+
 .item-right a {
 	font-size: 1.3em;
 	padding: 0.3em 0.5em;
 }
 
 .item-right p {
-	height: 55px;
+	height: 55px; 
+ 
 }
 .banner {
 	min-height: 357px;
@@ -865,6 +888,7 @@ ul.drop li a {
 }
 .item-right p {
 	margin: 0.5em 0 1em;
+ 
 }
 .item-right a {
 	padding: 0.1em 0.5em;
@@ -1000,6 +1024,11 @@ p.footer-class {
 .item-right span {
 	font-size: 1.2em;	
 }
+
+.item-right img{
+	position:relative;
+left:8%
+}
 .item-bottom {
 	padding: 0 0 2em;
 }
@@ -1021,6 +1050,8 @@ p.footer-class {
 .item-right p {
 	height: 18px;
 	font-size:1em;
+  float: left;
+  
 }
 .banner {
 	min-height: 181px;
