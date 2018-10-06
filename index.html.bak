@@ -180,9 +180,11 @@
                             Firmware
                         </h3>
                         <p>
-                            Official development framework for Bio-sensor.Through a simple example, we would like to illustrate how to use the Bio-module.
+                            Official development framework for Bio-sensor.Through a simple example,
+                            we would like to illustrate how to use the Bio-module.
                         </p>
-                        <a href="https://github.com/feelkit/bioModule_NRF52_BLE" target="view_window" class="just-do-in">
+                        <a href="https://github.com/feelkit/bioModule_NRF52_BLE" target="view_window"
+                        class="just-do-in">
                             Details
                         </a>
                     </div>
@@ -193,9 +195,11 @@
                             APP & Tool
                         </h3>
                         <p>
-                            Evaluation tool for Bio-sensor,support Microsoft Windows, based on LabWindows CVI 2017. APK for Android are being developed. 
+                            Evaluation tool for Bio-sensor,support Microsoft Windows, based on LabWindows
+                            CVI 2017. APK for Android are being developed.
                         </p>
-                        <a href="https://github.com/feelkit/bioDemo_labwindows_cvi" target="view_window" class="just-do-in">
+                        <a href="https://github.com/feelkit/bioDemo_labwindows_cvi" target="view_window"
+                        class="just-do-in">
                             Details
                         </a>
                     </div>
@@ -206,7 +210,8 @@
                             Hardware
                         </h3>
                         <p>
-                           Bio-sensor reference design, Schematic, PCB, document; Compatible with common open-source hardware family.
+                            Bio-sensor reference design, Schematic, PCB, document; Compatible with
+                            common open-source hardware family.
                         </p>
                         <a href="https://github.com/feelkit/BIO_SENSOR" target="view_window" class="just-do-in">
                             Details
@@ -220,7 +225,12 @@
                         IS IT TURE? EASILY DEVELOP HEALTHCARE APPLICATION !
                     </h2>
                     <p>
-                        FeelKit is an open-source electronics platform based on easy-to-use hardware and software in healthcare.The evaluation board for Bio-Moudule is the best board to get started with electronics and coding; If this is your first experience tinkering with the platform, it is the most robust board you can start playing with, also the most used and documented board of the whole healthcare family.
+                        FeelKit is an open-source electronics platform based on easy-to-use hardware
+                        and software in healthcare.The evaluation board for Bio-Moudule is the
+                        best board to get started with electronics and coding; If this is your
+                        first experience tinkering with the platform, it is the most robust board
+                        you can start playing with, also the most used and documented board of
+                        the whole healthcare family.
                     </p>
                 </div>
             </div>
@@ -250,10 +260,40 @@
                         </p>
                     </div>
                     <div class="col-md-5 submit">
-                        <form>
-                            <input type="submit" value="Shop now">
-                            <div class="clearfix">
-                            </div>
+                        <!-- <form>
+                        <input type="submit" value="Shop now">
+                        <div class="clearfix">
+                        </div>
+                        </form>
+                        -->
+                        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="JVKLSES53TSA2">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <input type="hidden" name="on0" value="Bio-sensor: M001A  or evaluation board">
+                                        Bio-sensor: M001A or evaluation board
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <select name="os0">
+                                            <option value="Bio-sensor: M001A">
+                                                Bio-sensor: M001A $ 100.00 USD
+                                            </option>
+                                            <option value="Evaluation board for M001A">
+                                                Evaluation board for M001A $ 680.00 USD
+                                            </option>
+                                        </select>
+                                    </td>
+                                </tr>
+                            </table>
+                            <input type="hidden" name="currency_code" value="USD">
+                            <input type="image" src="https://www.paypalobjects.com/zh_XC/i/btn/btn_cart_LG.gif"
+                            border="0" name="submit" alt="PayPal——最安全便捷的在线支付方式！">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/zh_XC/i/scr/pixel.gif"
+                            width="1" height="1">
                         </form>
                     </div>
                     <div class="clearfix">
@@ -266,7 +306,8 @@
                         </p>
                     </div>
                     <div class="col-md-5 submit">
-                        <form>
+                        <img class="img-responsive" src="images/feelkit_tb.png" alt="">
+                        <form action="https://shop69263171.taobao.com/">
                             <input type="submit" value="淘宝">
                             <div class="clearfix">
                             </div>
