@@ -133,7 +133,7 @@
                                 heart rate monitoring, trend analysis of blood pressure, Emotional and
                                 mental stress etc.
                             </p>
-                            <a href="#">
+                            <a href="/blog/en/M001A/" target="view_window">
                                 <i>
                                 </i>
                                 Read more
@@ -279,7 +279,7 @@
                                 <tr>
                                     <td>
                                         <select name="os0">
-                                            <option value="Bio-sensor: M001A">
+                                            <option value="Bio-sensor : M001A">
                                                 Bio-sensor: M001A $100.00 USD
                                             </option>
                                             <option value="Evaluation board for M001A">
